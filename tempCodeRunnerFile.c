@@ -1,0 +1,1 @@
+printf("%u \n", &age);
